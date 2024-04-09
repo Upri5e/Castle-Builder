@@ -1,0 +1,20 @@
+﻿  Buildings.cpp
+E:\C++\CastleBuilder\CastleBuilder\CastleBuilder\Game.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Button.cpp
+E:\C++\CastleBuilder\CastleBuilder\CastleBuilder\Button.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Game.cpp
+E:\C++\CastleBuilder\CastleBuilder\CastleBuilder\Game.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Input.cpp
+E:\C++\CastleBuilder\CastleBuilder\CastleBuilder\Input.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+E:\C++\CastleBuilder\CastleBuilder\CastleBuilder\Game.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Map.cpp
+E:\C++\CastleBuilder\CastleBuilder\CastleBuilder\Game.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  pugixml.cpp
+  Shop.cpp
+E:\C++\CastleBuilder\CastleBuilder\CastleBuilder\Button.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureManager.cpp
+E:\C++\CastleBuilder\CastleBuilder\CastleBuilder\Game.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Widget.cpp
+E:\C++\CastleBuilder\CastleBuilder\CastleBuilder\GUI\Widget.h(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...

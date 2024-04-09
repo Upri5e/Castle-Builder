@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<root>
+	<Decoration>
+		<bridge url="bridge.png" cost="10041" value="28467" levelcap="3" uid="1"/>
+		<hangar url="hangar.png" cost="16334" value="34464" levelcap="5" uid="3"/>
+	</Decoration>
+	<Workshop>
+		<drugstore url="drugstore.png" cost="10041" value="28467" levelcap="1" uid="4"/>
+		<government url="government.png" cost="16334" value="36500" levelcap="3" uid="5"/>
+		<museum url="museum.png" cost="29169" value="25724" levelcap="4" uid="6"/>
+		<property url="property.png" cost="21478" value="39358" levelcap="1" uid="7"/>
+		<Temple-icon url="Temple-icon.png" cost="36962" value="34464" levelcap="2" uid="8"/>
+	</Workshop>
+</root>
